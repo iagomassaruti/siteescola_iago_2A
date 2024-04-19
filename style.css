@@ -47,18 +47,18 @@ body {
 }
 
 .estudante{
-    padding: 12px 0;
+    padding: 20px 0;
 }
 .Marcelo.jpeg{
     width: 30px;
 }
 
-.estudante-icone{
-    width:10px;
-    padding: 12px 8px;
+.github.png{
+    width:20px;
+    padding: 24px 16px;
 }
 
-.estudante-div{
+.linkedin.png{
     text-align: center;
-    padding: 12px 0;
+    padding: 16px 4;
 }
