@@ -47,18 +47,18 @@ body {
 }
 
 .estudante{
-    padding: 24px 0;
+    padding: 12px 0;
 }
 .estudante-imagem{
-    width: 120px;
+    width: 10px;
 }
 
 .estudante-icone{
     width: 24px;
-    padding: 4px 8px;
+    padding: 2px 4px;
 }
 
 .estudante-div{
     text-align: center;
-    padding: 16px 0;
+    padding: 8px 0;
 }
